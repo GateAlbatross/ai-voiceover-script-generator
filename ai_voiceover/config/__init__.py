@@ -1,0 +1,1 @@
+"""Config layer: constants, prompt templates, provider registry."""
