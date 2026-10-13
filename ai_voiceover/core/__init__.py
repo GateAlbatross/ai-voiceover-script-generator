@@ -1,0 +1,1 @@
+"""Core engine: generation, timing, TTS dispatch."""
