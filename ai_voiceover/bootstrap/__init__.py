@@ -1,0 +1,1 @@
+"""Bootstrap layer: entry point, environment checks, splash."""
