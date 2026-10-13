@@ -1,0 +1,1 @@
+"""Qt handlers: window, menus, drag-drop, worker glue."""
